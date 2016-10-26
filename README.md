@@ -6,6 +6,8 @@ Enables more swift-like syntax in JavaScript: you can omit the parens for the co
 
 See [paren-free](https://brendaneich.com/2010/11/paren-free/).
 
+Also see [blog post](https://medium.com/@jacobp100/adding-custom-syntax-to-babel-e1a1315c6a90).
+
 ## Valid
 
 ```js
