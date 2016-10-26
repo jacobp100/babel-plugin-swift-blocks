@@ -4,7 +4,7 @@ Experiment at extending Babel syntax.
 
 Enables more swift-like syntax in JavaScript: you can omit the parens for the condition in all if, for*, while, do-while statements so long as you use braces.
 
-See [paren-free](https://brendaneich.com/2010/11/paren-free/);
+See [paren-free](https://brendaneich.com/2010/11/paren-free/).
 
 ## Valid
 
