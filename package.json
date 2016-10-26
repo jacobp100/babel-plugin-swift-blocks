@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-swift-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-types": "^6.18.0",
+    "babylon": "^6.13.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "babel-core": "^6.18.0",
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb-base": "^9.0.0",
+    "eslint-plugin-import": "^2.0.1"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
