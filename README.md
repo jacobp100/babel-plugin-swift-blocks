@@ -1,3 +1,7 @@
+# No Longer Works
+
+Due to changes in how Babel is packaged, this no longer works.
+
 # babel-plugin-swift-blocks
 
 Experiment at extending Babel syntax.
